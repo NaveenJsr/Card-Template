@@ -36,7 +36,7 @@ section{
 .left{
     width: 90%;
     height: 400px;
-    background: url(/images/img1.jpg) no-repeat center / cover;
+    background-image: url(../images/img1.jpg) no-repeat center / cover;
     border-radius: 8px;
     margin-left: -190px;
     box-shadow: 1px 1px 5px black;
